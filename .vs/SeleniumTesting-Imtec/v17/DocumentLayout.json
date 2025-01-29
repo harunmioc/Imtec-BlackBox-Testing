@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|c:\\users\\korisnik\\desktop\\imtec-blackbox-testing\\seleniumtesting-imtec\\tests\\testovi_pretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|solutionrelative:seleniumtesting-imtec\\tests\\testovi_pretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|c:\\users\\korisnik\\desktop\\imtec-blackbox-testing\\seleniumtesting-imtec\\tests\\testovi_dodavanja_u_korpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|solutionrelative:seleniumtesting-imtec\\tests\\testovi_dodavanja_u_korpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|c:\\users\\korisnik\\desktop\\imtec-blackbox-testing\\seleniumtesting-imtec\\tests\\testlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|solutionrelative:seleniumtesting-imtec\\tests\\testlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|c:\\users\\korisnik\\desktop\\imtec-blackbox-testing\\seleniumtesting-imtec\\tests\\test_nparedne_pretrage_cijena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|solutionrelative:seleniumtesting-imtec\\tests\\test_nparedne_pretrage_cijena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|c:\\users\\korisnik\\desktop\\imtec-blackbox-testing\\seleniumtesting-imtec\\tests\\test_kontakt_forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB1FCCC-CEB7-478F-B477-43F6AFF67167}|SeleniumTesting-Imtec\\SeleniumTesting-Imtec.csproj|solutionrelative:seleniumtesting-imtec\\tests\\test_kontakt_forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testovi_pretrage.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Testovi_pretrage.cs",
+              "RelativeDocumentMoniker": "SeleniumTesting-Imtec\\Tests\\Testovi_pretrage.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Testovi_pretrage.cs",
+              "RelativeToolTip": "SeleniumTesting-Imtec\\Tests\\Testovi_pretrage.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:25:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testovi_Dodavanja_u_Korpu.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Testovi_Dodavanja_u_Korpu.cs",
+              "RelativeDocumentMoniker": "SeleniumTesting-Imtec\\Tests\\Testovi_Dodavanja_u_Korpu.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Testovi_Dodavanja_u_Korpu.cs",
+              "RelativeToolTip": "SeleniumTesting-Imtec\\Tests\\Testovi_Dodavanja_u_Korpu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:25:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\TestLogin.cs",
+              "RelativeDocumentMoniker": "SeleniumTesting-Imtec\\Tests\\TestLogin.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\TestLogin.cs",
+              "RelativeToolTip": "SeleniumTesting-Imtec\\Tests\\TestLogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:24:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test_Nparedne_Pretrage_Cijena.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Test_Nparedne_Pretrage_Cijena.cs",
+              "RelativeDocumentMoniker": "SeleniumTesting-Imtec\\Tests\\Test_Nparedne_Pretrage_Cijena.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Test_Nparedne_Pretrage_Cijena.cs",
+              "RelativeToolTip": "SeleniumTesting-Imtec\\Tests\\Test_Nparedne_Pretrage_Cijena.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:24:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_Kontakt_Forme.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Test_Kontakt_Forme.cs",
+              "RelativeDocumentMoniker": "SeleniumTesting-Imtec\\Tests\\Test_Kontakt_Forme.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\Imtec-BlackBox-Testing\\SeleniumTesting-Imtec\\Tests\\Test_Kontakt_Forme.cs",
+              "RelativeToolTip": "SeleniumTesting-Imtec\\Tests\\Test_Kontakt_Forme.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:24:19.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
